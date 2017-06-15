@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">InfiniteSpaceCanal</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
 </resources>
