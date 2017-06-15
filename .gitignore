@@ -13,3 +13,6 @@ InfiniteSpaceCanal.iml
 app/app.iml
 build/
 local.properties
+.DS_Store
+src/main/res/.DS_Store
+/gradle.properties
